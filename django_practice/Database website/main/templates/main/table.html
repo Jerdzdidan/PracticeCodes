@@ -1,0 +1,36 @@
+{% extends "main/base.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Table View{% endblock %}</title>
+
+</head>
+<body style="background-color: white;">
+    {% block content %}
+        <h1 class="mt-2">Login Form</h1>
+        <hr class="mt-0 mb-4">
+        <h1>Registered Users</h1>
+        <table class="user-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                </tr>
+                <tbody>
+                    {% for user in users %}
+                    <tr>
+                        <td>{{ user.id }}</td>
+                        <td>{{ user.username }}</td>
+                        <td>{{ user.email }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </thead>
+
+        </table>
+    {% endblock %}
+</body>
+</html>

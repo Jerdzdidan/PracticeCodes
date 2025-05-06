@@ -1,0 +1,24 @@
+{% extends 'main/base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Create New List{% endblock %}</title>
+</head>
+<body>
+    <div id="content" name="content">
+        {% block content %}
+        <h1>Create Page</h1>
+        <form method = "post" action = "/create/" class="form-group">
+            {% csrf_token %}
+            <div class="input-group">
+                <button type = "submit", nmae = "save" class="input-group-text btn btn-success">Create New</button>
+                {{form.name}}
+            </div>
+        </form>
+        {% endblock %}
+    </div>
+    
+</body>
+</html>

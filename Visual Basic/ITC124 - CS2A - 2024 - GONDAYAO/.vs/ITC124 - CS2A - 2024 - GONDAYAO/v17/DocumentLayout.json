@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\frmmrecitation1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:frmmrecitation1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\frmpractice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:frmpractice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\jdapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:jdapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\lecture3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:lecture3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\lecture2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:lecture2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\lecture1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:lecture1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\activity2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:activity2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\activity1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:activity1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\activity.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:activity.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\frmpractice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:frmpractice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|f:\\documents(hdd1tb)\\itc124 - cs2a - 2024 - gondayao\\frmmrecitation1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{760DD685-93DD-4998-8DAD-8B9BFDE151BC}|ITC124 - CS2A - 2024 - GONDAYAO.vbproj|solutionrelative:frmmrecitation1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JDAPP.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\JDAPP.vb",
+              "RelativeDocumentMoniker": "JDAPP.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\JDAPP.vb [Design]",
+              "RelativeToolTip": "JDAPP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:07:27.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture3.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture3.vb",
+              "RelativeDocumentMoniker": "Lecture3.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture3.vb [Design]",
+              "RelativeToolTip": "Lecture3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:45.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecture2.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture2.vb",
+              "RelativeDocumentMoniker": "Lecture2.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture2.vb [Design]",
+              "RelativeToolTip": "Lecture2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:44.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lecture1.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture1.vb",
+              "RelativeDocumentMoniker": "Lecture1.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Lecture1.vb [Design]",
+              "RelativeToolTip": "Lecture1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:43.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Activity.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity.vb",
+              "RelativeDocumentMoniker": "Activity.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity.vb [Design]",
+              "RelativeToolTip": "Activity.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:40.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Activity1.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity1.vb",
+              "RelativeDocumentMoniker": "Activity1.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity1.vb [Design]",
+              "RelativeToolTip": "Activity1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:39.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Activity2.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity2.vb",
+              "RelativeDocumentMoniker": "Activity2.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\Activity2.vb [Design]",
+              "RelativeToolTip": "Activity2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-22T06:06:38.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMrecitation1.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmMrecitation1.vb",
+              "RelativeDocumentMoniker": "frmMrecitation1.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmMrecitation1.vb [Design]",
+              "RelativeToolTip": "frmMrecitation1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T11:52:01.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMrecitation1.vb",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmMrecitation1.vb",
+              "RelativeDocumentMoniker": "frmMrecitation1.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmMrecitation1.vb",
+              "RelativeToolTip": "frmMrecitation1.vb",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T11:52:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPractice.vb",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmPractice.vb",
+              "RelativeDocumentMoniker": "frmPractice.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmPractice.vb",
+              "RelativeToolTip": "frmPractice.vb",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAF0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T11:51:20.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPractice.vb [Design]",
+              "DocumentMoniker": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmPractice.vb",
+              "RelativeDocumentMoniker": "frmPractice.vb",
+              "ToolTip": "F:\\Documents(HDD1TB)\\ITC124 - CS2A - 2024 - GONDAYAO\\frmPractice.vb [Design]",
+              "RelativeToolTip": "frmPractice.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T11:49:08.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

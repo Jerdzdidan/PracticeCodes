@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Activity1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Activity2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMrecitation1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPractice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lecture1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JDAPP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lecture2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lecture3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

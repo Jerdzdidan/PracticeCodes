@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITC124 - CS2A - 2024 - GONDAYAO/1.0.0": {
+        "runtime": {
+          "ITC124 - CS2A - 2024 - GONDAYAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITC124 - CS2A - 2024 - GONDAYAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
